@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gallery</string>
+    <string name="circle">8dp</string>
+    <string name="text_photo">Выбор фотографий</string>
+    <string name="text_send">Send</string>
+    <string name="send_text">send</string>
+
+</resources>
